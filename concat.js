@@ -6,4 +6,4 @@ const fullName = firstName+ ' ' +lastName;
 
 console.log(firstName.concat(' ').concat(lastName));
 
-console.log(lastName.includes('v'));
+console.log(lastName.includes('v')); 
